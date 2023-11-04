@@ -1,6 +1,6 @@
 """
 Utility for uploading files to DB by Path
-python  upload.py --input <path>
+python  upload.py --input <path/file>
 """
 
 
